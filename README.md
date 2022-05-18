@@ -1,5 +1,5 @@
 # The Simple_shell Project
-Welcome to the end o low level programming i.e c programming language. All Thank to ALX, School of Software engineering.
+Welcome to the end of low level programming i.e c programming language. All Thank to ALX in collaboration with Holberton School of Software engineering.
 
 ----------------------------------------
 
